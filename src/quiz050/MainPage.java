@@ -35,7 +35,7 @@ movie1.setBounds(100,150,200,30);
 movie1.addActionListener(this);
 add(movie1);
 
-
+setVisible(true);
 }
 
 @Override
